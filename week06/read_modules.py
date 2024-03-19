@@ -9,6 +9,5 @@ def readModules():
  module["grade"]=int(input("\t\tEnter grade:"))
  modules.append(module)
  # now read the next module name
- moduleName = input("\tEnter next module name (blank to quit) 
-:").strip()
+ moduleName = input("\tEnter next module name (blank to quit):").strip()
  return modules
