@@ -13,4 +13,3 @@ elif percentage < 70:
 elif percentage <= 100:
     print("Distinction")
 
-
