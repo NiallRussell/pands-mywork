@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+    <food>
+        <name>porridge</name>
+        <price>3.00</price>
+        <calories>50</calories>
+    </food>
+    <food>
+        <name>egg</name>
+        <price>10</price>
+        <calories>40</calories>
+    </food>
+</breakfast_menu>
